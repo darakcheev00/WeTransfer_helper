@@ -14,7 +14,7 @@ The receiver runs ungrouper.exe and enters the source and destination directory.
 - Source directory: single folder where all downloaded unzipped WeTransfer folders are.
 - Destination director: folder into which the files will be transfered.
 
-Folders can be dragged into the the terminal instead of manually entering path.
+Folders can be drag-and-dropped into the the terminal instead of manually entering path.
 
 
 **Note**
