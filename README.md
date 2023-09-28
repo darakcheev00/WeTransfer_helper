@@ -13,3 +13,7 @@ The sender runs grouper.exe and enters the directory in which the files to be se
 The receiver runs ungrouper.exe and enters the source and destination directory.
 - Source directory: single folder where all downloaded unzipped WeTransfer folders are.
 - Destination director: folder into which the files will be transfered.
+
+
+**Note**
+- Has been tested only on Windows.
