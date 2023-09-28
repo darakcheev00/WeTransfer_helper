@@ -19,3 +19,4 @@ Folders can be dragged into the the terminal instead of manually entering path.
 
 **Note**
 - Has been tested only on Windows.
+- To use on mac just run with Python (update coming)
